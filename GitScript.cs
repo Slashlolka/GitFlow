@@ -1,5 +1,1 @@
-</One>10<One\> 
-</Two>10<Two\> 
-</Three>10<Three\> 
-</Four>10<Four\> 
-</Five>10<Five\> 
+[{"Name":"Stepan","DMG":10.0,"MinHP":100.0,"MaxHP":100.0},{"Name":"Sasha","DMG":20.0,"MinHP":50.0,"MaxHP":50.0}]
