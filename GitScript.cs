@@ -1,1 +1,1 @@
-[{"Name":"1234123","DMG":31.0,"NowHP":31.0,"MaxHP":31.0,"Armor":31.0}]
+[{"Name":"Sasha","DMG":1.0,"NowHP":1.0,"MaxHP":1.0,"Armor":1.0},{"Name":"Stepan","DMG":1.0,"NowHP":1.0,"MaxHP":1.0,"Armor":1.0}]
