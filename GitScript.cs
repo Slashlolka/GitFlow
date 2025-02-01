@@ -1,1 +1,1 @@
-<int MyScore/>10<MyScore/> 
+<MyScore/>10<MyScore/> 
