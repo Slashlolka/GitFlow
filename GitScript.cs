@@ -1,1 +1,1 @@
-[{"Name":"UserOne","DMG":30.0,"NowHP":30.0,"MaxHP":30.0,"Armor":30.0},{"Name":"UserTwo","DMG":2.0,"NowHP":2.0,"MaxHP":2.0,"Armor":2.0},{"Name":"UserThree","DMG":3.0,"NowHP":3.0,"MaxHP":3.0,"Armor":3.0},{"Name":"UserFour","DMG":4.0,"NowHP":4.0,"MaxHP":4.0,"Armor":4.0},{"Name":"UserFive","DMG":5.0,"NowHP":5.0,"MaxHP":5.0,"Armor":5.0}]
+[{"Name":"Stepan","DMG":30.0,"NowHP":30.0,"MaxHP":30.0,"Armor":30.0},{"Name":"Sasha","DMG":2.0,"NowHP":2.0,"MaxHP":2.0,"Armor":2.0}]
